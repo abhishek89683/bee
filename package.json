@@ -1,0 +1,13 @@
+{
+  "name": "bee5thsem",
+  "version": "1.0.0",
+  "main": "node.js",
+  "type": "42",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
